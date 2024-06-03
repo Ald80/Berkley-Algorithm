@@ -1,2 +1,2 @@
 # Berkley-Algorithm
-Implementaion of the berkley algorithm in python
+Implementation of the berkley algorithm in python
